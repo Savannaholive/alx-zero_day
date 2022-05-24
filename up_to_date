@@ -1,0 +1,7 @@
+git add .
+git commit - "My first commit"
+git push
+
+git status
+git pull
+git checkout update_script
