@@ -1,7 +1,16 @@
 git add .
+<<<<<<< HEAD
 git commit - "My first commit"
 git push
 
 git status
 git pull
 git checkout update_script
+=======
+git commit -m "My first commit"
+git push
+
+git checkout update_script
+git status
+git pull
+>>>>>>> update_script
